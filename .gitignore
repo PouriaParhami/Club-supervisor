@@ -1,0 +1,7 @@
+yolov3-wider_16000.weights
+libs_info.txt
+old_ui.py
+dlib_face_recognition_resnet_model_v1.dat
+dlib-19.22.99-cp38-cp38-win_amd64.whl
+yolov3-face.cfg
+faces_data_Inception-ResNet.pkl
