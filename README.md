@@ -31,7 +31,6 @@ This is a Gym Entry Management System that uses facial recognition to manage mem
 - yolov3-face.cfg
 - Pandas
 - `win32com.client` (for webcam detection on Windows)
-- [face_recognition](https://github.com/ageitgey/face_recognition)
 - SQLite (database setup included)
 
 ### Setting Up the Environment
